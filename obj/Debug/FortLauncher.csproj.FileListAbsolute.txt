@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\FortLauncher\bin\Debug\FortLauncher.exe
+C:\Users\User\source\repos\FortLauncher\bin\Debug\FortLauncher.pdb
+C:\Users\User\source\repos\FortLauncher\obj\Debug\FortLauncher.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FortLauncher\obj\Debug\FortLauncher.Form1.resources
+C:\Users\User\source\repos\FortLauncher\obj\Debug\FortLauncher.Properties.Resources.resources
+C:\Users\User\source\repos\FortLauncher\obj\Debug\FortLauncher.csproj.GenerateResource.cache
+C:\Users\User\source\repos\FortLauncher\obj\Debug\FortLauncher.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FortLauncher\obj\Debug\FortLauncher.exe
+C:\Users\User\source\repos\FortLauncher\obj\Debug\FortLauncher.pdb
